@@ -1,0 +1,2 @@
+(v1.1)
+Added a project group (section) with ten project buttons that can be assigned to multiple executions. NOTE - See program information dialogs for details.
